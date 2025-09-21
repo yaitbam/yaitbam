@@ -38,8 +38,6 @@ What makes me different? I don’t just code. I combine:
 
 Here are some of the technologies I'm proficient in:
 
-### 🚀 My Tech Stack
-
 <p align="center">  
 <img src="https://skillicons.dev/icons?i=js,ts,react,next,vue,html,css,tailwind,mui,nodejs,nestjs,express,php,python,mysql,postgres,mongodb,docker,aws,gcp,git,github,linux,vercel"&theme=light" />  
 </p>
