@@ -28,6 +28,7 @@ Over the last **5+ years**, I’ve worked with startups, research institutions, 
 
 What makes me different? I don’t just code. I combine:
 - **Engineering expertise** as one of the first cohort at 1337 coding school, I built a strong foundation in problem-solving and software design, which allows me to adapt quickly to any stack or technology.
+- **End-to-end IT & SaaS experience**  from design and development to deployment, scaling, and ongoing maintenance, I’ve managed the full lifecycle of web applications and SaaS projects.  
 - **Digital transformation mindset** I help turn raw ideas and dreams into fully functional, real-world solutions that create measurable value. 
 - **Business focus** I think like a founder and partner, ensuring that every solution aligns with growth and efficiency goals.  
 
