@@ -7,7 +7,7 @@ Feel free to get inspired, but please give it your own personal touch.
 
 <div align="center">
   <h1 align="center">Hi there, I'm Youssef Ait Bamouh 👋</h1>
-  <h3 align="center">Digital Consultant & Tech Problem Solver | Helping founders transform ideas into scalable solutions 🚀</h3>
+  <h3 align="center">Senior Software Engineer | Tech Problem Solver | Digital Consultant | Helping founders transform ideas into scalable solutions 🚀</h3>
 </div>
 
 <div align="center">
