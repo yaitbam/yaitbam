@@ -52,7 +52,7 @@ The stack is negotiable. The standard is not. I pick tools that fit the problem 
   <img align="center" src="https://github-readme-stats-yaitbam.vercel.app/api/top-langs?username=yaitbam&layout=compact&locale=en&theme=tokyonight&count_private=true&cache_seconds=1800" alt="Top languages" />
 </p>
 
-<p align="center">4,200+ contributions since 2018 across client projects, open source and personal experiments.</p>
+<p align="center">4200+ contributions since 2019 across client projects, open source and personal experiments.</p>
 
 ### Working together
 
