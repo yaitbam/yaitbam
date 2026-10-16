@@ -45,14 +45,6 @@ Also in daily use: n8n, Make.com, Claude API, React Native, PM2, Sentry, CloudWa
 The stack is negotiable. The standard is not. I pick tools that fit the problem and the budget, not the ones that look good on a README.
 </p>
 
-### GitHub
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats-yaitbam.vercel.app/api?username=yaitbam&show_icons=true&theme=tokyonight&count_private=true&hide=issues,contribs&cache_seconds=1800&hide_rank=true](https://github-readme-stats-yaitbam.vercel.app/api?username=yaitbam&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=issues,contribs&hide_rank=true)" alt="GitHub stats" />
-</p>
-
-<p align="center">4200+ contributions since 2019 across client projects, open source and personal experiments.</p>
-
 ### Working together
 
 Open to SaaS builds, automation work, AI integrations and fractional engineering with founders and teams who want a partner rather than a pair of hands.
