@@ -1,75 +1,67 @@
-<!--
-Hi there! You've found the code for my GitHub profile.
-Feel free to get inspired, but please give it your own personal touch.
--->
-
-<!-- Header -->
-
 <div align="center">
-  <h1 align="center">Hi there, I'm Youssef Ait Bamouh 👋</h1>
-  <h3 align="center">Senior Software Engineer | Tech Problem Solver | Digital Consultant | Helping founders transform ideas into scalable solutions 🚀</h3>
+  <h1>Youssef Ait Bamouh</h1>
+  <h3>Senior Software Engineer and Digital Partner</h3>
+  <p><b>I take ideas that only exist in a founder's head and ship them as systems that hold up in production.</b><br/>
+  6+ years, 50+ delivered projects, from the first line of code to the server it runs on.</p>
 </div>
 
 <div align="center">
+  <a href="https://yaitbam.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://aitleet.com" target="_blank">
+    <img src="https://img.shields.io/badge/AitLeet-1a1a1a?style=for-the-badge" alt="AitLeet Solutions"/>
+  </a>
   <a href="https://www.linkedin.com/in/youssef-ait-bamouh-a65603141/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
 
----
+### What I actually do
 
-### About Me
+Most people hire a developer and still have to make every technical decision themselves. I work the other way around. You bring the problem, I bring the architecture, the build, the deployment and the maintenance, and you get a thing that works.
 
-I’m not just a developer , I’m a **digital partner**.  
-Over the last **5+ years**, I’ve worked with startups, research institutions, and entrepreneurs to transform ideas into scalable digital products.  
+**Engineering foundation.** First cohort at 1337, the Moroccan school of the 42 Network. Reached level 17 and earned the [Advanced Developer certificate](https://www.credly.com/badges/c1b0277d-92b6-4700-a005-b5d37c083b29/public_url). No lectures, no teachers, every project defended in front of a peer jury. That is where the habit of writing code that survives review came from.
 
-What makes me different? I don’t just code. I combine:
-- **Engineering expertise** as one of the first cohort at 1337 coding school (42 Network), I built a strong foundation in problem-solving and software design, which allows me to adapt quickly to any stack or technology.
-- **End-to-end IT & SaaS experience**  from design and development to deployment, scaling, and ongoing maintenance, I’ve managed the full lifecycle of web applications and SaaS projects.  
-- **Digital transformation mindset** I help turn raw ideas and dreams into fully functional, real-world solutions that create measurable value. 
-- **Business focus** I think like a founder and partner, ensuring that every solution aligns with growth and efficiency goals.  
+**Full lifecycle, not just the fun part.** Design, build, deploy, scale, monitor, maintain. I run nginx and PM2 on real servers, wire up Sentry and structured logging, and stay on after launch.
 
----
+**Automation and AI as a specialty.** n8n, Make.com, Claude API and custom integrations. The workflows that quietly save a business ten hours a week.
 
-### 🚀 My Tech Stack
+**I think like a partner.** I will tell you when a feature is not worth building. Founders hire me for the judgment as much as the code.
 
-Here are some of the technologies I'm proficient in:
+### Selected work
 
-<p align="center">  
-<img src="https://skillicons.dev/icons?i=js,ts,react,next,vue,html,css,tailwind,mui,nodejs,nestjs,express,python,mysql,postgres,mongodb,docker,gcp,git,github,linux,vercel"&theme=light" />  
-</p>
-<p align="center">  
-⚡ Beyond these tools, my real advantage is adaptability.  
-I’m not afraid of new technologies , whether it’s a new language, framework, or AI innovation.  
-I see them as opportunities to create smarter, faster, and more impactful solutions.
-</p>
+**Picalty** booking platform for UM6P, handling 1000+ bookings per month with CMI and NAPS payment integration, replacing a fully manual reservation process.
 
+**Seedebate** hackathon management SaaS that I founded and led from 2020 to 2023, reaching 40,000+ users, including a contract with OFPPT under the PIE program.
 
-### 📊 My GitHub Journey
+**UM6P framework partnership** embedded across 10+ departments, delivering portals, internal tools and automation pipelines on a standing contract.
 
-Here's a little snapshot of my activity on GitHub.
+50+ delivered projects across SaaS platforms, automation pipelines, AI integrations and institutional portals. Client work stays private out of confidentiality, so the detailed portfolio goes out on request.
+
+### Stack
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats-yaitbam.vercel.app/api?username=yaitbam&show_icons=true&theme=tokyonight&count_private=true&hide=issues,contribs&cache_seconds=1800&hide_rank=true" alt="Youssef's GitHub Stats" />
-  <img align="center" src="https://github-readme-stats-yaitbam.vercel.app/api/top-langs?username=yaitbam&layout=compact&locale=en&theme=tokyonight&count_private=true&cache_seconds=1800" alt="Youssef's Top Languages" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,fastapi,flask,django,mongodb,postgres,docker,nginx,linux,git,github,tailwind,vercel,cloudflare" />
 </p>
-<br/>
 
-Over **4,200+ contributions** since 2018 across client projects, open source, and personal experiments.  
+<p align="center">
+Also in daily use: n8n, Make.com, Claude API, React Native, PM2, Sentry, CloudWatch, Datadog, Zoho suite.
+</p>
 
----
-### ✨ My Superpowers
+<p align="center">
+The stack is negotiable. The standard is not. I pick tools that fit the problem and the budget, not the ones that look good on a README.
+</p>
 
-🔍 **Problem-Solving Mindset** : trained at 1337 coding school to break down complex problems into simple, elegant solutions.  
-🚀 **From Idea to Impact** : I specialize in turning raw ideas or “dream projects” into real, working digital platforms.  
-🤖 **Automation Architect** : I design workflows (Make.com, APIs, integrations) that save businesses time and scale effortlessly.  
-🌍 **Digital Transformation Partner** : I don’t just build code, I guide teams and founders through adopting the right tools and processes.  
-🧠 **Adaptability to Any Tech** : whether it’s a new framework or AI-driven solution, I learn fast and use it to deliver value.  
+### GitHub
 
+<p align="center">
+  <img align="center" src="https://github-readme-stats-yaitbam.vercel.app/api?username=yaitbam&show_icons=true&theme=tokyonight&count_private=true&hide=issues,contribs&cache_seconds=1800&hide_rank=true" alt="GitHub stats" />
+  <img align="center" src="https://github-readme-stats-yaitbam.vercel.app/api/top-langs?username=yaitbam&layout=compact&locale=en&theme=tokyonight&count_private=true&cache_seconds=1800" alt="Top languages" />
+</p>
 
-<div align="center">
-<br>
+<p align="center">4,200+ contributions since 2018 across client projects, open source and personal experiments.</p>
 
-💬 Looking for a partner to bring your digital ideas to life?  
-I’m open to collaborations, consulting, and building SaaS platforms.  
-</div>
+### Working together
+
+Open to SaaS builds, automation work, AI integrations and fractional engineering with founders and teams who want a partner rather than a pair of hands.
