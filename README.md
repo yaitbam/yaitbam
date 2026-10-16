@@ -6,12 +6,6 @@
 </div>
 
 <div align="center">
-  <a href="https://yaitbam.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://aitleet.com" target="_blank">
-    <img src="https://img.shields.io/badge/AitLeet-1a1a1a?style=for-the-badge" alt="AitLeet Solutions"/>
-  </a>
   <a href="https://www.linkedin.com/in/youssef-ait-bamouh-a65603141/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -23,19 +17,17 @@ Most people hire a developer and still have to make every technical decision the
 
 **Engineering foundation.** First cohort at 1337, the Moroccan school of the 42 Network. Reached level 17 and earned the [Advanced Developer certificate](https://www.credly.com/badges/c1b0277d-92b6-4700-a005-b5d37c083b29/public_url). No lectures, no teachers, every project defended in front of a peer jury. That is where the habit of writing code that survives review came from.
 
-**Full lifecycle, not just the fun part.** Design, build, deploy, scale, monitor, maintain. I run nginx and PM2 on real servers, wire up Sentry and structured logging, and stay on after launch.
+**Full lifecycle, not just the fun part.** Design, build, deploy, scale, monitor, maintain. I run nginx and docker on real servers, wire up Sentry and structured logging, and stay on after launch.
 
-**Automation and AI as a specialty.** n8n, Make.com, Claude API and custom integrations. The workflows that quietly save a business ten hours a week.
+**Automation and AI as a specialty.** n8n, Make.com, LLM API and custom integrations. The workflows that quietly save a business ten hours a week.
 
 **I think like a partner.** I will tell you when a feature is not worth building. Founders hire me for the judgment as much as the code.
 
 ### Selected work
 
-**Picalty** booking platform for UM6P, handling 1000+ bookings per month with CMI and NAPS payment integration, replacing a fully manual reservation process.
+**Picalty** SaaS booking platform, handling 1000+ bookings per month with CMI and NAPS Moroccan payment integration, replacing a fully manual reservation process.
 
-**Seedebate** hackathon management SaaS that I founded and led from 2020 to 2023, reaching 40,000+ users, including a contract with OFPPT under the PIE program.
-
-**UM6P framework partnership** embedded across 10+ departments, delivering portals, internal tools and automation pipelines on a standing contract.
+**Seedebate** hackathon management SaaS that I founded and led from 2020 to 2023, reaching 40 000+ users, including a contract with big organization under their entrepreneurship program.
 
 50+ delivered projects across SaaS platforms, automation pipelines, AI integrations and institutional portals. Client work stays private out of confidentiality, so the detailed portfolio goes out on request.
 
