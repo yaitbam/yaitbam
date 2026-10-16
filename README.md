@@ -2,7 +2,7 @@
   <h1 align="center">Hi there, I'm Youssef Ait Bamouh 👋</h1>
   <h3>Senior Software Engineer and Digital Partner</h3>
   <p><b>I take ideas that only exist in a founder's head and ship them as systems that hold up in production.</b><br/>
-  6+ years, 50+ delivered projects, from the first line of code to the server it runs on.</p>
+  7+ years, 50+ delivered projects, from the first line of code to the server it runs on.</p>
 </div>
 
 <div align="center">
