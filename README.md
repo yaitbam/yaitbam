@@ -11,9 +11,6 @@ Feel free to get inspired, but please give it your own personal touch.
 </div>
 
 <div align="center">
-  <a href="mailto:aitbamouhyoussef@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
   <a href="https://www.linkedin.com/in/youssef-ait-bamouh-a65603141/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -27,7 +24,7 @@ I’m not just a developer , I’m a **digital partner**.
 Over the last **5+ years**, I’ve worked with startups, research institutions, and entrepreneurs to transform ideas into scalable digital products.  
 
 What makes me different? I don’t just code. I combine:
-- **Engineering expertise** as one of the first cohort at 1337 coding school, I built a strong foundation in problem-solving and software design, which allows me to adapt quickly to any stack or technology.
+- **Engineering expertise** as one of the first cohort at 1337 coding school (42 Network), I built a strong foundation in problem-solving and software design, which allows me to adapt quickly to any stack or technology.
 - **End-to-end IT & SaaS experience**  from design and development to deployment, scaling, and ongoing maintenance, I’ve managed the full lifecycle of web applications and SaaS projects.  
 - **Digital transformation mindset** I help turn raw ideas and dreams into fully functional, real-world solutions that create measurable value. 
 - **Business focus** I think like a founder and partner, ensuring that every solution aligns with growth and efficiency goals.  
@@ -75,5 +72,4 @@ Over **4,200+ contributions** since 2018 across client projects, open source, an
 
 💬 Looking for a partner to bring your digital ideas to life?  
 I’m open to collaborations, consulting, and building SaaS platforms.  
-📩 Contact me at [aitbamouhyoussef@gmail.com](mailto:aitbamouhyoussef@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/youssef-ait-bamouh-a65603141/).
 </div>
