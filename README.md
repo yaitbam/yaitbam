@@ -48,8 +48,7 @@ The stack is negotiable. The standard is not. I pick tools that fit the problem 
 ### GitHub
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats-yaitbam.vercel.app/api?username=yaitbam&show_icons=true&theme=tokyonight&count_private=true&hide=issues,contribs&cache_seconds=1800&hide_rank=true" alt="GitHub stats" />
-  <img align="center" src="https://github-readme-stats-yaitbam.vercel.app/api/top-langs?username=yaitbam&layout=compact&locale=en&theme=tokyonight&count_private=true&cache_seconds=1800" alt="Top languages" />
+  <img align="center" src="https://github-readme-stats-yaitbam.vercel.app/api?username=yaitbam&show_icons=true&theme=tokyonight&count_private=true&hide=issues,contribs&cache_seconds=1800&hide_rank=true](https://github-readme-stats-yaitbam.vercel.app/api?username=yaitbam&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=issues,contribs&hide_rank=true)" alt="GitHub stats" />
 </p>
 
 <p align="center">4200+ contributions since 2019 across client projects, open source and personal experiments.</p>
